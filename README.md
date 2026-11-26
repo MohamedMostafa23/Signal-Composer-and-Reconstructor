@@ -1,4 +1,4 @@
-# Signal-Composer-and-Reconstructor (Bachelor project for Digital Signal Processing Course, 2021) 
+# Signal-Composer-and-Reconstructor
 
 An interactive PyQt application for exploring the sampling theorem. Compose a signal from sinusoids, change the sample rate, and compare the reconstructed signal with the original. The walkthrough below shows how the controls fit together.
 

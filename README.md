@@ -2,6 +2,8 @@
 
 An interactive PyQt application for exploring the sampling theorem. Compose a signal from sinusoids, change the sample rate, and compare the reconstructed signal with the original. The walkthrough below shows how the controls fit together.
 
+I developed this signal sampling and reconstruction tool in 2021 for the Digital Signal Processing course at Cairo University during my bachelor’s degree. Prof. Dr. Tamer Basha (Cairo University and Harvard Medical School) taught the course. I updated this README in November 2026 to make the project easier to explore. [Original 2021 code](https://github.com/MohamedMostafa23/Signal-Composer-and-Reconstructor/commit/63ef65b6b107951fe154a7e4158af71bbc4c8469)
+
 [Python application](main.py)
 
 GUI Where you can compose your sinusoidal signal, delete it, sample it, and finally reconstruct it and verifying Nyquist theorem. 
